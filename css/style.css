@@ -1,6 +1,7 @@
 *{
-    font-family: 'Roboto', sans-serif;
-    font-size: 160px;
-    font-weight: 700;
-    color: red;
+    margin: 0;  /* Reset default margin for all elements */
+    padding: 0; /* Reset default padding for all elements */
+    text-decoration: none; /* Remove underline from links */
+    
+
 }
